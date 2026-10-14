@@ -26,7 +26,6 @@ Table Name:`items`
 - Database and table creation
 - Primary keys
 - Data storage and retrieval
-- Inventory quantity management
 
 ## 💡 Future Improvements
 - Add, update, and delete inventory items.
