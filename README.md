@@ -7,7 +7,6 @@ The Inventory Management System is a SQL-based project designed to store and man
 - Store inventory item details in a structured database.
 - Maintain item IDs, names, and quantities.
 - Understand database creation and table management using SQL.
-- Build practical SQL skills through a real-world use case.
 
 ## 🛠️ Tools & Technologies
 - SQL
